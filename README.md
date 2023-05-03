@@ -27,7 +27,7 @@
   - [Run tests](#run-tests)
   
 - [👥 Authors](#authors)
-
+- [🔭 Future Features](#future-features)
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
@@ -153,7 +153,10 @@ Track CSS linter errors run:
 
 <p align="right">(<a href="#readme-top">back to top</a>
 
-
+## 🔭 Future Features <a name="future-features"></a>
+- *[make our linters test javascript ]**
+- **[make it test react]**
+- **[make it text roobe]**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🤝 Contributing <a name="contributing"></a>
