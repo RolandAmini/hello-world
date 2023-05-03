@@ -48,7 +48,7 @@
 
 
 <details>
-  <summary>Client</summary>
+ 
   <ul>
     <li><a href="">html</a></li>
     <li><a href="">css</a></li>
